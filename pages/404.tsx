@@ -8,6 +8,7 @@ const NotFound = () => {
 		<PageWrapper>
 		<ImageBlockText>
 			404 NOT FOUND
+
 		</ImageBlockText>
 			<Image src='/NotFound/imgPage404.webp' alt={'страница не  найдена'} width={404} height={404} />
 		</PageWrapper>
